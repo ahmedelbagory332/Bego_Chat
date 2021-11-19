@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331483345057",
+    "project_id": "full-chat-app-9990f",
+    "storage_bucket": "full-chat-app-9990f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331483345057:android:cfd3d5b9db0fcf7a0a40e0",
+        "android_client_info": {
+          "package_name": "com.fullChat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331483345057-ujdg2150f3ecs94b3jh3nqkodguj1sgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLg5BnnN18xQCj-eQWTc8gVLMpEY1Tasc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331483345057-ujdg2150f3ecs94b3jh3nqkodguj1sgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
